@@ -1,0 +1,12 @@
+\frametitle{eigenfaces\_used}
+
+    \begin{lstlisting}[language=Matlab, numbers=none]
+% plotting result
+plot(x, y);
+xlabel('Captured information (%)');
+ylabel('Eigenfaces used');
+grid on
+
+end
+    \end{lstlisting}
+

@@ -1,0 +1,24 @@
+\beamer@sectionintoc {1}{Eigenfaces}{3}{0}{1}
+\beamer@sectionintoc {2}{Principal Component Analysis}{4}{0}{2}
+\beamer@sectionintoc {3}{Singular Value Decomposition}{6}{0}{3}
+\beamer@sectionintoc {4}{Computing Eigenfaces}{7}{0}{4}
+\beamer@sectionintoc {5}{Recovering Images}{8}{0}{5}
+\beamer@sectionintoc {6}{Implementation}{9}{0}{6}
+\beamer@subsectionintoc {6}{1}{flatten}{10}{0}{6}
+\beamer@subsectionintoc {6}{2}{reduce}{11}{0}{6}
+\beamer@subsectionintoc {6}{3}{recover\_image}{13}{0}{6}
+\beamer@subsectionintoc {6}{4}{space\_used}{14}{0}{6}
+\beamer@subsectionintoc {6}{5}{eigenfaces\_used}{16}{0}{6}
+\beamer@sectionintoc {7}{Results}{18}{0}{7}
+\beamer@subsectionintoc {7}{1}{Mean Face}{18}{0}{7}
+\beamer@subsectionintoc {7}{2}{Eigenfaces}{19}{0}{7}
+\beamer@subsectionintoc {7}{3}{Recovered image}{20}{0}{7}
+\beamer@subsectionintoc {7}{4}{Eigenfaces used}{21}{0}{7}
+\beamer@subsectionintoc {7}{5}{Saved space}{22}{0}{7}
+\beamer@sectionintoc {8}{Face Recognition}{23}{0}{8}
+\beamer@sectionintoc {9}{Implementation}{24}{0}{9}
+\beamer@subsectionintoc {9}{1}{flatten\_img}{25}{0}{9}
+\beamer@subsectionintoc {9}{2}{reduce\_img}{26}{0}{9}
+\beamer@subsectionintoc {9}{3}{recognize\_img}{27}{0}{9}
+\beamer@sectionintoc {10}{Results}{28}{0}{10}
+\beamer@sectionintoc {11}{References}{29}{0}{11}
